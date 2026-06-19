@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Nasrudeen Ansari 👋 </h1>
-<h3 align="center">Software developer from India</h3>
+<h3 align="center">Software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 Currently I'm working at **Hitachi Digital Service**
